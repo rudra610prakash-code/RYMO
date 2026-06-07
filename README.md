@@ -1,4 +1,4 @@
-# 🛍️ RYMO - Premium E-Commerce Platform
+# 🛍️ RYMO -  E-Commerce 
 
 ![RYMO](https://img.shields.io/badge/RYMO-E--Commerce-fb774b?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square)
