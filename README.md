@@ -1,7 +1,7 @@
 # 🛍️ RYMO - Premium E-Commerce Platform
 
 ![RYMO](https://img.shields.io/badge/RYMO-E--Commerce-fb774b?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.1.3-blueviolet?style=flat-square)
 
@@ -19,8 +19,6 @@ Whether your customers are browsing on desktops, tablets, or mobile phones, RYMO
 
 ### UI/UX Excellence
 - **Clean & Modern Aesthetic**: Minimalist design with sophisticated color palette
-- **Consistent Branding**: Unified visual identity throughout all pages
-- **Intuitive Navigation**: User-friendly menu structure with clear CTAs
 - **Professional Typography**: Carefully selected fonts (Poppins, League Spartan, Monoton)
 - **Rich Color Scheme**: 
   - Primary Orange: `#fb774b` - Action buttons & highlights
@@ -171,7 +169,6 @@ RYMO/
 | **CSS3** | Latest | Styling & animations |
 | **Bootstrap** | 4.1.3 | Responsive grid system |
 | **Font Awesome** | 7.0.1 | Icons & visual elements |
-| **Google Fonts** | Latest | Custom typography |
 
 ---
 
@@ -210,119 +207,9 @@ RYMO/
 
 ---
 
-## 📊 Responsive Breakpoints
 
-```css
-/* Mobile First Approach */
-Default    /* Mobile: 0px+ */
-@media (min-width: 768px)   /* Tablet */
-@media (min-width: 992px)   /* Desktop */
-@media (min-width: 1200px)  /* Large Desktop */
-```
-
----
-
-## 🎯 User Experience Highlights
-
-✅ **Intuitive Navigation**: Clear, consistent menu structure  
-✅ **Fast Loading**: Optimized images and lightweight CSS  
-✅ **Accessible Design**: Semantic HTML and readable typography  
-✅ **Mobile-First**: Prioritizes mobile experience  
-✅ **Visual Hierarchy**: Clear focus on important elements  
-✅ **Smooth Interactions**: Polished animations and transitions  
-✅ **Professional Look**: Modern, cohesive design  
-✅ **Cross-Device Compatible**: Works flawlessly everywhere  
-
----
-
-## 📱 Testing
-
-RYMO has been tested and verified on:
-
-- ✨ **Mobile Devices**: iPhone, Android phones (320px - 768px)
-- ✨ **Tablets**: iPad, Android tablets (768px - 1024px)
-- ✨ **Desktop**: Various screen sizes (1024px+)
-- ✨ **Browsers**: Chrome, Firefox, Safari, Edge
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/rudra610prakash-code/RYMO.git
-   ```
-
-2. **Navigate to the project**
-   ```bash
-   cd RYMO
-   ```
-
-3. **Open in browser**
-   - Open `index.html` in your web browser
-   - Or use a local server for best results
-
-4. **Explore pages**
-   - Home: `index.html`
-   - Shop: `Shop.html`
-   - Cart: `cart.html`
-   - Blog: `blog.html`
-
----
-
-## 💡 Features Coming Soon
-
-- 🔐 User authentication & accounts
-- 🛡️ Secure payment integration
-- 📧 Email notifications
-- ⭐ Product reviews & ratings
-- 💬 Live chat support
-- 📱 Progressive Web App (PWA)
-- 🔍 Advanced search & filtering
-- 💓 Wishlist functionality
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
 **Rudra Prakash**  
 GitHub: [@rudra610prakash-code](https://github.com/rudra610prakash-code)
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-## 📞 Contact & Support
-
-For questions or support, please reach out:
-- 📧 Email: rymo@mail.com
-- 📱 Phone: (123) 456-7890
-- 📍 Address: 123 Street Name, City, US
-
----
-
-## ⭐ Show Your Support
-
-If you find RYMO helpful, please consider giving it a star! ⭐
-
----
-
-<div align="center">
-
-### 🎉 Thank You for Choosing RYMO
-
-**Built with ❤️ for beautiful e-commerce experiences**
-
-[Visit RYMO](#) • [View Live](#) • [Report Issues](#)
-
-</div>
